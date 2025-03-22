@@ -3,23 +3,7 @@
 ## **Overview**
 This project showcases a complete data analytics workflow, starting from **web scraping** cricket data using Python to transforming it with SQL and Pandas, and creating an interactive **Power BI dashboard**. It highlights advanced features like custom DAX measures, dynamic visuals, and actionable insights.
 
----
-## **Screenshots**
 
-### **1. Dashboard Overview**
-![Dashboard Overview]("https://github.com/Tishasingh15/cricket-data-analytics/blob/main/Screenshot%202024-11-20%20235017.png")
-
-### **2. Detailed Metrics Visualization**
-![Metrics Visualization](Pictures%20Saved/Screenshot%202024-11-20%20235129.png)
-
-### **3. Final Team**
-![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235522.png)
-
-### **4. Power BI Final Dashboard**
-![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235724.png)
-
-
----
 
 ## **Project Workflow**
 
@@ -80,16 +64,10 @@ This project showcases a complete data analytics workflow, starting from **web s
 ---
 
 
-## **Project Demo (GIF)**
 
-![My Cricket Analysis Dashboard]("C:\Users\HP\Desktop\End-to-End-Cricket-Data-Analytics-Project-main\Pictures Saved\MyCricketAnalysisDashboardreduced-ezgif.com-video-to-gif-converter.gif")
 
 
 ---
-
-## **Folder Structure**
-
-cricket-data-analytics/ │ ├── README.md ├── web_scraper/ │ ├── scrape_data.py ├── sql_queries/ │ ├── data_cleaning.sql │ ├── data_transformation.sql ├── power_bi/ │ ├── dashboard.pbix │ └── screenshots/ ├── data/ │ ├── raw_data.csv │ ├── cleaned_data.csv
 
 
 ---
@@ -127,7 +105,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## **Contact**
 For any queries or suggestions:
-- Email: siddharthaofficial04@gmail.com
+- Email: tishasingh152003@gmail.com
 
 
 
