@@ -7,16 +7,16 @@ This project showcases a complete data analytics workflow, starting from **web s
 ## **Screenshots**
 
 ### **1. Dashboard Overview**
-![Dashboard Overview](Pictures%20Saved/Screenshot%202024-11-20%20235017.png)
+![Dashboard Overview](https://github.com/Tishasingh15/cricket-data-analytics/blob/main/result%20images/Screenshot%202024-11-20%20235017.png)
 
 ### **2. Detailed Metrics Visualization**
-![Metrics Visualization](Pictures%20Saved/Screenshot%202024-11-20%20235129.png)
+![Metrics Visualization](https://github.com/Tishasingh15/cricket-data-analytics/blob/main/result%20images/Screenshot%202024-11-20%20235129.png)
 
 ### **3. Final Team**
-![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235522.png)
+![Custom DAX Measures](https://github.com/Tishasingh15/cricket-data-analytics/blob/main/result%20images/Screenshot%202024-11-20%20235522.png)
 
 ### **4. Power BI Final Dashboard**
-![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235724.png)
+![Final Dashboard](https://github.com/Tishasingh15/cricket-data-analytics/blob/main/result%20images/Screenshot%202024-11-20%20235724.png)
 
 
 ---
