@@ -82,7 +82,7 @@ This project showcases a complete data analytics workflow, starting from **web s
 
 ## **Project Demo (GIF)**
 
-![My Cricket Analysis Dashboard](Pictures%20Saved/MyCricketAnalysisDashboardreduced-ezgif.com-video-to-gif-converter.gif)
+![My Cricket Analysis Dashboard]("C:\Users\HP\Desktop\End-to-End-Cricket-Data-Analytics-Project-main\Pictures Saved\MyCricketAnalysisDashboardreduced-ezgif.com-video-to-gif-converter.gif")
 
 
 ---
