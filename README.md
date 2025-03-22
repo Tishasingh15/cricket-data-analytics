@@ -7,7 +7,7 @@ This project showcases a complete data analytics workflow, starting from **web s
 ## **Screenshots**
 
 ### **1. Dashboard Overview**
-![Dashboard Overview](Pictures%20Saved/Screenshot%202024-11-20%20235017.png)
+![Dashboard Overview]("C:\Users\HP\Desktop\End-to-End-Cricket-Data-Analytics-Project-main\Pictures Saved\Screenshot 2024-11-20 235017.png")
 
 ### **2. Detailed Metrics Visualization**
 ![Metrics Visualization](Pictures%20Saved/Screenshot%202024-11-20%20235129.png)
